@@ -1,0 +1,23 @@
+{
+  "name": "firstserver",
+  "version": "1.0.0",
+  "description": "creating my first server using node.js and http",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshwiniPatil101089/FirstServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshwiniPatil101089/FirstServer/issues"
+  },
+  "homepage": "https://github.com/AshwiniPatil101089/FirstServer#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
